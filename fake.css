@@ -1,0 +1,12 @@
+.logohero{background-image: url(logo.png); background-repeat:no-repeat;background-size: 100% 100%; height:150px;background-color: #8896AB}
+nav{color: #3A5A40; text-align:center; padding: 10px; font-size: 2em; padding-top: 20px}
+nav a {text-decoration : none}
+#header{background-color: #e6f3ff;}
+h1{color: #3A5A40}
+h2{color: #3A5A40}
+h3{color: #3A5A40}
+p {color:#000000}
+main{padding-left: 2em; padding-right: 2em}
+body{background-image: linear-gradient(#C5D5E4,#0D2149);background-repeat:no-repeat;}
+footer{font-size:0.7em;font-style:italic;text-align:center;padding:1em;}
+#wrapper {width:80%; margin-right:auto; margin-left:auto;background-color: #FFFFFF; min-width: 960px; max-width: 2048px; box-shadow:10px 10px}
